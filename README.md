@@ -3,3 +3,6 @@ once done just run the program and easy as that
 
 
 Made by Lime_man420 https://www.youtube.com/channel/UCxtgwqWBoC3wk35wNqGzkpA
+
+
+BTW these are detected by EAC
